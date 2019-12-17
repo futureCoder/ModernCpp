@@ -142,9 +142,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="ExceptionTest.h" />
+    <ClInclude Include="IstreamLineReader.h" />
     <ClInclude Include="SmartPtr.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ExceptionTest.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
