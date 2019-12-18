@@ -1,6 +1,6 @@
 #pragma once
 #include <utility>
-namespace Jason
+namespace Noah
 {
 	class Counter
 	{
