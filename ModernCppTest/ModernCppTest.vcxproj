@@ -145,6 +145,7 @@
     <ClInclude Include="ExceptionTest.h" />
     <ClInclude Include="IstreamLineReader.h" />
     <ClInclude Include="SmartPtr.h" />
+    <ClInclude Include="TemplateMeta.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ExceptionTest.cpp" />
